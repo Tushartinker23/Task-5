@@ -12,8 +12,8 @@ Gain insight from the Titanic dataset through:
 
 ## 📂 Files Included
 - `train.csv`: Titanic dataset
-- `Titanic_EDA_Report.pdf`: EDA report with visualizations
-- `Titanic_EDA_Analysis.ipynb`: Jupyter Notebook with code
+- `Task-5.pdf`: EDA report with visualizations
+- `Task-5.ipynb`: Jupyter Notebook with code
 - `README.md`: This documentation
 
 ## 🧪 Tools Used
